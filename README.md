@@ -21,3 +21,21 @@ CSS3 (with media queries)
 Vanilla JavaScript
 
 OpenWeatherMap API
+
+
+🔑 API Key Setup
+This project uses the OpenWeatherMap API.
+
+Create a free account and generate an API key.
+
+Replace the sample key inside script.js with your own:
+const apiKey = 'YOUR_API_KEY_HERE';
+
+✨ Future Improvements
+Add unit toggle (°C ↔ °F)
+
+Auto-detect user location with Geolocation API
+
+Display 5-day forecast
+
+Add loading spinner and error handling visuals
